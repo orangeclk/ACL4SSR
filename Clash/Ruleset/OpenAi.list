@@ -14,3 +14,8 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+
+# Claude
+# 2条
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
