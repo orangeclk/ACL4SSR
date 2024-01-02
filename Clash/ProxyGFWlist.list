@@ -1,5 +1,8 @@
 # 代理列表
 
+# 自定义
+DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
