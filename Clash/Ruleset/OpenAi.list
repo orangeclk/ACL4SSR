@@ -22,9 +22,3 @@ DOMAIN-SUFFIX,oaiusercontent.com
 # 2条
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
-
-# Cici
-# 3条
-DOMAIN-SUFFIX,ciciai.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,itobsnssdk.com
