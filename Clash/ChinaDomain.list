@@ -701,4 +701,10 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,zhuihd.com
+=======
+DOMAIN-SUFFIX,zhuihd.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,95516.com
+>>>>>>> upstream/master
